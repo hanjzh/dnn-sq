@@ -1,0 +1,5 @@
+*.csv
+*.nnet
+eval/
+test/
+results/
